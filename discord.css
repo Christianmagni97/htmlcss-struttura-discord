@@ -3,10 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     }
-header{
-    height: 50%;
-    width: 100%;
-}    
+ 
   
 .inizio{
     background-color: #2a5ee8;
@@ -15,7 +12,9 @@ header{
 }
 .image-wallpaper{
     display: flex;
-    width: 100%;
+    width: 400px%;
+    height: 644px;
+    
    
    
    
