@@ -164,12 +164,12 @@ p{
     font-size: 30px;
 }
 .Testo3{
-    text-align: center;
+    
 }
 footer{
-background-color: #23272a;
-width: 100%;
-height: 500px;
+    background-color: #23272a;
+    width: 100%;
+    height: 570px;
 }
 #titlefooter{
     color: #6d7ebc;
@@ -209,6 +209,29 @@ li{
     margin-right: 7%;
     color: #6d7ebc;
     margin-top: 40px;
+    
+}
+.fine-footer{
+    display: flex;
+    justify-content: space-between;
+    
+}
+#logo2{
+    display: flex;
+    margin-left: 7%;
+    width: 170px;
+    margin-top: 20px;
+
+}
+#Accedi5{
+    background-color:#7289da;
+    margin-right: 7%;
+    width: 160px;
+    height: 40px;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    align-self: center;
     
 }
 
