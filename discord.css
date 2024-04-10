@@ -199,24 +199,18 @@ i{
     margin-top: 7px;
     color: white;
 }
-#indice2{
-    
-    width: 100%;
+nav ul {
     display: flex;
-    color: #6d7ebc;
     justify-content: space-around;
-    align-items: center;
+    
+    
+}
+#indice2{
+    color: #6d7ebc;
+    
 }
 #indice3{
-    
-    width: 100%;
-    display: flex;
     color: white;
-    justify-content: space-around;
-    align-items: center;
-}
-ul{
-    padding-top: 30px;
 }
 
 
