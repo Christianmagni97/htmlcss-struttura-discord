@@ -86,7 +86,7 @@ p{
     align-items: center;
     justify-content: center;
 }
-.Text1{
+.Text1, .Text2{
     display: flex;
     width: 25%;
     flex-direction: column;
@@ -99,8 +99,6 @@ p{
     background-color: #f6f6f6;
     width: 100%;
     height: 700px;
-
-   
 }
 .Box2{
     display: flex;
@@ -109,13 +107,41 @@ p{
     padding-bottom: 150px;
     align-items: center;
     justify-content: center;
-    
 }
-.Text2{
+.Box3{
     display: flex;
-    width: 25%;
-    flex-direction: column;
-    
+    width: 100%;
+    margin-top: 150px;
+    padding-bottom: 150px;
+    align-items: center;
+    justify-content: center;
 }
-
+.wallpaperXbox3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+    width: 100%;
+    height: 700px;
+}
+.wallpaperXbox4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #f6f6f6;
+    width: 100%;
+    height: 850px;
+}
+.Box4{
+    display: flex;
+    width: 100%;
+    margin-top: 150px;
+    padding-bottom: 150px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.Testo3{
+    text-align: center;
+}
 
