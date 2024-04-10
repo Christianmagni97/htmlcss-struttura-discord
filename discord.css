@@ -193,6 +193,8 @@ span{
     display: flex;
     justify-content: space-around;
     padding-top: 40px;
+    margin-left: 7%;
+    margin-right: 7%;
 }
 #TitoliIndice{
     color: #6d7ebc;
@@ -201,6 +203,13 @@ span{
 li{
     font-size: 25px;
     color: white;
+}
+#barra{
+    margin-left: 7%;
+    margin-right: 7%;
+    color: #6d7ebc;
+    margin-top: 40px;
+    
 }
 
 
