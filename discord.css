@@ -32,7 +32,9 @@
     align-items: center;
     flex-direction: column;
     text-align: center;
-    justify-content: space-evenly;
+}
+#Titolo{
+    padding-bottom: 30px;
 }
 
 #logo{
@@ -52,6 +54,10 @@
 }
 .button{
     display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    
 }
 #Accedi2{
     width: 150px;
